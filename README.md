@@ -33,6 +33,13 @@ My background in **industrial automation and system logic** gives me a unique pe
 </div>
 
 ### 
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sherikov/Sherikov/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sherikov/Sherikov/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sherikov/Sherikov/output/pacman-contribution-graph.svg">
+</picture>
 <div align="end">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNtbjhuMWg4NDR2dDZ3Z2w4djcxa2Q5aGttOXJ3bXgxNG1vdDU3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="300" />
 </div>
