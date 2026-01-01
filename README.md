@@ -21,7 +21,7 @@ My background in **industrial automation and system logic** gives me a unique pe
 - 🚀 **Goal:** To bridge the gap between complex engineering logic and intuitive web interfaces.
 
 📫 **Contact me:**
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sherikov966@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sherikov966@gmail.com) sherikov966@gmail.com
 
 ### :hammer_and_wrench: # 💻 Tech Stack: :
 <div>
