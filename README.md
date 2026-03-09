@@ -17,7 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 My background in **industrial automation and system logic** gives me a unique perspective on building structured and efficient web applications. I am passionate about creating user-centric interfaces and scalable software solutions.
 
 - 🎓 **Education:** B.Sc. in Informatics & Computer Engineering.
-- 💻 **Current Focus:** Frontend Development (JavaScript ecosystem).
+- 💻 **Current Focus:** Frontend Development (React).
 - 🚀 **Goal:** To bridge the gap between complex engineering logic and intuitive web interfaces.
 
 📫 **Contact me:**
